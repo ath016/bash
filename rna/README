@@ -1,0 +1,4 @@
+Translate ribosome sequence into protein.
+
+$ bash ribosome.sh augcgauaa
+ - Met(start) - Arg - Ter(stop)
