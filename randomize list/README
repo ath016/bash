@@ -1,0 +1,43 @@
+Randomly sort user list when run.
+
+$ cat user
+Mason
+Noah
+Emma
+James
+Sophia
+Oliver
+Charlotte
+Olivia
+Mia
+Ethan
+Amelia
+Elijah
+Logan
+Isabella
+Liam
+Ava
+Harper
+Lucas
+Mila
+$ bash rand.sh 
+$ cat user
+Mila
+Liam
+Ethan
+Amelia
+Mason
+Oliver
+Charlotte
+Logan
+Lucas
+James
+Ava
+Sophia
+Elijah
+Olivia
+Isabella
+Harper
+Mia
+Emma
+Noah
